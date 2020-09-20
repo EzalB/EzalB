@@ -4,55 +4,61 @@
 
 ## I'm a Enthusiastic Coder & Developer!
 
-- 🔭 I’m currently working on my [Portfolio][website]!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Develop more web projects
-- ⚡ Hobbies: I love Gaming and Singing
+- 🔭 I’m currently working on [Portfolio][website]!
+- 🌱 I’m currently learning everything. 🤣
+- 🥅 2020 Goals: Gain appropriate skills, develop projects and follow career path.
+- ⚡ Hobbies: I like Gaming, Listening Music and Exploring new Places.
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31wqfi7scf7xloas2h7ux3xxj22y?si=fGpN7s2QRkuaB8sdEM_yjg)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="EzalB Spotify Playing" width="350" />](https://open.spotify.com/user/oij44th2vauocpz5kzwlnlz3h?si=93uzD6K6RdOKVv6LLJCVVQ)
 
 ### Connect with me:
 
 [<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="AkP2809YT" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="AkP2809LiKDN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AkP2809IG" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="EzalBTwitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="EzalBLiKDN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="EzalBIG" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][website]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][website]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][website]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][website]
 
 <br/>
 
 ---
 
-[website]: https://optimistic-developer2128.netlify.app/
-[youtube]: https://www.youtube.com/channel/UCBwAp1F2FgWJ9B_9nWcxmag
-[instagram]: https://www.instagram.com/armaan_khan2809/
-[linkedin]: https://www.linkedin.com/in/armaan-khan-22231b192/
+[project]: //
+[website]: https://consistent-coder.netlify.app/
+[twitter]: https://twitter.com/rusheel_dalal
+[instagram]: https://www.instagram.com/rusheeldalal/
+[linkedin]: www.linkedin.com/in/rusheeldalal
 
-[![Armaan's github stats](https://github-readme-stats.vercel.app/api?username=AkP2809&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs)](https://github.com/AkP2809)
-
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkP2809&layout=compact&hide=JupyterNotebook&langs_count=9)](https://github.com/AkP2809)
+[![Rusheel's github stats](https://github-readme-stats.vercel.app/api?username=EzalB&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs)](https://github.com/EzalB)
 
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AkP2809&repo=Event-Countdown-Timer&theme=algolia&show_owner=true)](https://github.com/AkP2809/Event-Countdown-Timer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AkP2809&repo=Intership-Studio-ML-Project&theme=algolia&show_owner=true)](https://github.com/AkP2809/Intership-Studio-ML-Project)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EzalB&layout=compact)](https://github.com/EzalB)
+
+<br />
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EzalB&repo=Frontend-web-with-React&theme=algolia&show_owner=true)](https://github.com/EzalB/Frontend-web-with-React)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EzalB&repo=Internship-Studio-ML&theme=algolia&show_owner=true)](https://github.com/EzalB/Internship-Studio-ML)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EzalB&repo=https://github.com/EzalB/FrontEnd-Dev-BootStrap&theme=algolia&show_owner=true)](https://github.com/EzalB/https://github.com/EzalB/FrontEnd-Dev-BootStrap)
