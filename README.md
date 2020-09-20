@@ -61,4 +61,4 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EzalB&repo=Frontend-web-with-React&theme=algolia&show_owner=true)](https://github.com/EzalB/Frontend-web-with-React)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EzalB&repo=Internship-Studio-ML&theme=algolia&show_owner=true)](https://github.com/EzalB/Internship-Studio-ML)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EzalB&repo=https://github.com/EzalB/FrontEnd-Dev-BootStrap&theme=algolia&show_owner=true)](https://github.com/EzalB/https://github.com/EzalB/FrontEnd-Dev-BootStrap)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EzalB&repo=FrontEnd-Dev-BootStrap&theme=algolia&show_owner=true)](https://github.com/EzalB/https://github.com/EzalB/FrontEnd-Dev-BootStrap)
