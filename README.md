@@ -1,12 +1,12 @@
-### Hola Amigos! I'm Rusheel - aka [EzalB][website] 👋🔥
+### Holá Amigos! I'm Rusheel - aka [EzalB][website] 👋🔥
 
 [![Website](https://img.shields.io/website?label=PORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://consistent-coder.netlify.app/)
 
 ## I'm a Enthusiastic Coder & Developer!
 
-- 🔭 I’m currently working on [Portfolio][website]!
+- 🔭 This is my [Portfolio][website]!
 - 🌱 I’m currently learning everything. 🤣
-- 🥅 2020 Goals: Gain appropriate skills, develop projects and follow career path.
+- 🥅 2021 Goals: Gain appropriate skills, develop projects and follow career path.
 - ⚡ Hobbies: I like Gaming, Listening Music and Exploring new Places.
 
 ### Spotify Playing 🎧
@@ -15,10 +15,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="EzalBTwitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="EzalBLiKDN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="EzalBIG" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Portfolio" width="22px" color="#008080" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="EzalBTwitter" width="22px" color="#008080" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="EzalBLiKDN" width="22px" color="#008080" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="EzalBIG" width="22px" color="#008080" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -59,6 +59,7 @@
 
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EzalB&repo=Frontend-web-with-React&theme=algolia&show_owner=true)](https://github.com/EzalB/Frontend-web-with-React)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EzalB&repo=JavaScript-Projects&theme=algolia&show_owner=true)](https://github.com/EzalB/JavaScript-Projects)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EzalB&repo=React-JS-Projects&theme=algolia&show_owner=true)](https://github.com/EzalB/React-JS-Projects)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EzalB&repo=Internship-Studio-ML&theme=algolia&show_owner=true)](https://github.com/EzalB/Internship-Studio-ML)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EzalB&repo=FrontEnd-Dev-BootStrap&theme=algolia&show_owner=true)](https://github.com/EzalB/https://github.com/EzalB/FrontEnd-Dev-BootStrap)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EzalB&repo=Google-Maps-Clone-using-Mapbox&theme=algolia&show_owner=true)](https://github.com/EzalB/https://github.com/EzalB/Google-Maps-Clone-using-Mapbox)
