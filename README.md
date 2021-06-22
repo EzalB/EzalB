@@ -15,10 +15,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Portfolio" width="22px" color="#fff" src="images/website.svg" />][website]
-[<img align="left" alt="EzalBTwitter" width="22px" style="color: #008080" src="images/twitter.svg" />][twitter]
-[<img align="left" alt="EzalBLiKDN" width="22px" style="stroke: #008080" src="images/linkedin.svg" />][linkedin]
-[<img align="left" alt="EzalBIG" width="22px" style="fill: #008080" src="images/instagram.svg" />][instagram]
+[<img align="left" alt="Portfolio" width="22px" src="images/website.svg" />][website]
+[<img align="left" alt="EzalBTwitter" width="90%" src="images/twitter.svg" />][twitter]
+[<img align="left" alt="EzalBLiKDN" width="90%" src="images/linkedin.svg" />][linkedin]
+[<img align="left" alt="EzalBIG" width="90%" src="images/instagram.svg" />][instagram]
 
 <br />
 
