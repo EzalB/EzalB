@@ -15,7 +15,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Portfolio" width="22px" src="images/website.svg" />][website]
+[<img align="left" alt="Portfolio" width="22px" src="images/globe.svg" />][website]
 [<img align="left" alt="EzalBTwitter" width="22px" src="images/twitter.svg" />][twitter]
 [<img align="left" alt="EzalBLiKDN" width="22px" src="images/linkedin.svg" />][linkedin]
 [<img align="left" alt="EzalBIG" width="22px" src="images/instagram.svg" />][instagram]
