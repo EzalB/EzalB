@@ -16,9 +16,9 @@
 ### Connect with me:
 
 [<img align="left" alt="Portfolio" width="22px" src="images/website.svg" />][website]
-[<img align="left" alt="EzalBTwitter" width="90%" src="images/twitter.svg" />][twitter]
-[<img align="left" alt="EzalBLiKDN" width="90%" src="images/linkedin.svg" />][linkedin]
-[<img align="left" alt="EzalBIG" width="90%" src="images/instagram.svg" />][instagram]
+[<img align="left" alt="EzalBTwitter" width="26px" src="images/twitter.svg" />][twitter]
+[<img align="left" alt="EzalBLiKDN" width="22px" src="images/linkedin.svg" />][linkedin]
+[<img align="left" alt="EzalBIG" width="28px" src="images/instagram.svg" />][instagram]
 
 <br />
 
