@@ -16,8 +16,8 @@
 ### Connect with me:
 
 [<img align="left" alt="Portfolio" width="22px" style="background-color: #008080" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="EzalBTwitter" width="22px" style="stroke: #008080" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="EzalBLiKDN" width="22px" style="fill: #008080" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="EzalBTwitter" width="22px" style="color: #008080" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<svg align="left" alt="EzalBLiKDN" width="22px" style="stroke: #008080" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="EzalBIG" width="22px" style="fill: #008080" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
