@@ -6,7 +6,7 @@
 
 - 🔭 This is my [Portfolio][website]!
 - 🌱 I’m currently learning everything. 🤣
-- 🥅 2021 Goals: Gain appropriate skills, develop projects and follow career path.
+- 🥅 2023 Goals: Gain appropriate skills, develop more projects and follow career path. [React + Cloud]
 - ⚡ Hobbies: I like Gaming, Listening Music and Exploring new Places.
 
 ### Spotify Playing 🎧
