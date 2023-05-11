@@ -61,5 +61,4 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EzalB&repo=JavaScript-Projects&theme=algolia&show_owner=true)](https://github.com/EzalB/JavaScript-Projects)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EzalB&repo=React-JS-Projects&theme=algolia&show_owner=true)](https://github.com/EzalB/React-JS-Projects)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EzalB&repo=Internship-Studio-ML&theme=algolia&show_owner=true)](https://github.com/EzalB/Internship-Studio-ML)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EzalB&repo=Google-Maps-Clone-using-Mapbox&theme=algolia&show_owner=true)](https://github.com/EzalB/https://github.com/EzalB/Google-Maps-Clone-using-Mapbox)
